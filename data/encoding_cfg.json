@@ -1,0 +1,36 @@
+{
+    "lang": {
+        "factive": 0,
+        "contra": 1,
+        "believe": 2,
+        "circle": 3,
+        "triangle": 4,
+        "square": 5,
+        "red": 6,
+        "blue": 7,
+        "yellow": 8,
+        "above": 9,
+        "below": 10,
+        "left": 11,
+        "right": 12
+    },
+    "world": {
+        "circlered": 13,
+        "circleblue": 14,
+        "circleyellow": 15,
+        "trianglered": 16,
+        "triangleblue": 17,
+        "triangleyellow": 18,
+        "squarered": 19,
+        "squareblue": 20,
+        "squareyellow": 21,
+        "emptyempty": 22
+    },
+    "kind_codes": {
+        "believe": 2,
+        "factive": 0,
+        "contra": 1
+    },
+    "lang_sent_len": 6,
+    "world_sent_len": 9
+}
