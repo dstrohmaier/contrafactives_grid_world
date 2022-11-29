@@ -4,13 +4,17 @@
 
 This repository includes code required to replicate an experiment investigating the learnability of contrafactive attitudes verbs.
 
+# Authors
+
+The research is by Simon Wimmer and [David Strohmaier](https://dstrohmaier.com). The code has been written by David Strohmaier
+
 # Publication/Citation
 
 Forthcoming
 
 # Further Appendices
 
-Further appendices for the published paper can be found in this repository at [https://github.com/dstrohmaier/contrafactives_grid_world/tree/main/further_information/appendices.pdf]. These appendices document further details of data generation and training, including hyperparameter space relevant for replicating the published research.
+[Further appendices]([https://github.com/dstrohmaier/contrafactives_grid_world/tree/main/further_information/appendices.pdf) for the published paper can be found in this repository in the "further information" folder. These appendices document further details of data generation and training, including hyperparameter space relevant for replicating the published research.
 
 # License
 
