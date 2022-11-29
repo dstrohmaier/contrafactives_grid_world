@@ -6,7 +6,7 @@ This repository includes code required to replicate an experiment investigating 
 
 # Publication/Citation
 
-Furthcoming
+Forthcoming
 
 # Further Appendices
 
