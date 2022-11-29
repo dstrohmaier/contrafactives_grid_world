@@ -14,7 +14,7 @@ Forthcoming
 
 # Further Appendices
 
-[Further appendices]([https://github.com/dstrohmaier/contrafactives_grid_world/tree/main/further_information/appendices.pdf) for the published paper can be found in this repository in the "further information" folder. These appendices document further details of data generation and training, including hyperparameter space relevant for replicating the published research.
+[Further appendices](https://github.com/dstrohmaier/contrafactives_grid_world/tree/main/further_information/appendices.pdf) for the published paper can be found in this repository in the "further information" folder. These appendices document further details of data generation and training, including hyperparameter space relevant for replicating the published research.
 
 # License
 
