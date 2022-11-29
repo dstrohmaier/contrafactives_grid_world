@@ -2,11 +2,11 @@
 
 # Contrafactives: Exploration of a Grid World
 
-This repository includes code required to replicate an experiment investigating the learnability of contrafactive attitudes verbs.
+This repository includes code required to replicate an experiment investigating the learnability of contrafactive attitude verbs.
 
 # Authors
 
-The research is by Simon Wimmer and [David Strohmaier](https://dstrohmaier.com). The code has been written by David Strohmaier
+The research is by [Simon Wimmer](https://github.com/sbwimmer) and [David Strohmaier](https://dstrohmaier.com). The code has been written by David Strohmaier
 
 # Publication/Citation
 
