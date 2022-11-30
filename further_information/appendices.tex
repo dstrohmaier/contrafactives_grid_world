@@ -55,4 +55,16 @@ For training the data is split in to a training and a test set, size 633981 and 
 The best hyperparameter setting according to this search was then used for evaluating on the hold-out test set. The best hyperparameters can also be found in table \ref{tab:hyperparameter_space}. The entire training set was used for training the model in this final evaluation.
 
 
+\section{Further Architecture Details}
+
+The weights of the model were initialised with a Xavier uniform
+distribution. The biases were 0 initialised.
+
+The gradients were cliped to a norm of 1.
+
+The classification used the mean of all tokens of the last encoding
+layer. We used a Binary Cross Entropy Loss and the Adam optimization algorithm.
+
+
+
 \end{document}
