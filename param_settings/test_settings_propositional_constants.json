@@ -1,0 +1,17 @@
+{
+    "data_dir": "/local/scratch-2/ds858/contrafactives/small_data/",
+    "output_dir": "/local/scratch-2/ds858/contrafactives/output/small/test/",
+    "trans_parameters": {
+        "d_embedding": 200,
+        "d_hidden": 50,
+        "n_layers": 3,
+        "n_heads": 1,
+        "p_dropout": 0.3
+    },
+    "train_parameters": {
+        "lr": 0.0001,
+        "epochs": 3,
+        "batch_size": 150
+    },
+    "device": "cuda:1"
+}
