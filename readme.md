@@ -10,11 +10,12 @@ The research is by [Simon Wimmer](https://github.com/sbwimmer) and [David Strohm
 
 # Publication/Citation
 
-Forthcoming
+Forthcoming1
+Forthcoming2
 
 # Further Appendices
 
-[Further appendices](https://github.com/dstrohmaier/contrafactives_grid_world/tree/main/further_information/appendices.pdf) for the published paper can be found in this repository in the "further information" folder. These appendices document further details of data generation and training, including hyperparameter space relevant for replicating the published research.
+[Further appendices](https://github.com/dstrohmaier/contrafactives_grid_world/tree/main/further_information/appendices.pdf) for the published papers can be found in this repository in the "further information" folder. These appendices document further details of data generation and training, including hyperparameter space relevant for replicating the published research.
 
 # License
 
