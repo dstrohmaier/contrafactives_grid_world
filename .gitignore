@@ -2,5 +2,5 @@
 *.bbl
 *.blg
 *.log
-auto/*
+*/auto/*
 Exported Items.bib

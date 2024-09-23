@@ -8,10 +8,13 @@ This repository includes code required to replicate an experiment investigating 
 
 The research is by [Simon Wimmer](https://github.com/sbwimmer) and [David Strohmaier](https://dstrohmaier.com). The code has been written by David Strohmaier
 
-# Publication/Citation
+# Publication
 
-Forthcoming1
-Forthcoming2
+[Contrafactives and Learnability](https://philpapers.org/rec/STRCAL-6)
+
+[Contrafactives and Learnability: An Experiment with Propositional Constants](https://link.springer.com/chapter/10.1007/978-3-031-43977-3_5)
+
+
 
 # Further Appendices
 
